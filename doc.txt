@@ -1,0 +1,11 @@
+{
+    "username": "Nesrine",
+    "email": "nesrine@example.com",
+    "password": "motdepasse123"
+}
+
+
+lancer le server
+node server.js
+http://localhost:5000/
+
